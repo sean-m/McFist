@@ -1,0 +1,6 @@
+@PurposeBot_HostAddress = http://localhost:5080
+
+GET {{PurposeBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
